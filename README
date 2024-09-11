@@ -7,14 +7,14 @@ for Android:
  lunch 
  cd <android_source>/external/
  git clone  <url>
- cd memtest
+ cd memtester
  mm
 =====================================
 
 =====================================
 for Linux:
  git clone  <url>
- cd memtest
+ cd memtester
  Make
 =====================================
 
