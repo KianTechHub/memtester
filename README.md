@@ -6,7 +6,7 @@ https://pyropus.ca./software/memtester/
 
 ## Android Build Instructions
 
-Tested on **Android 12**.
+Already tested on **Android 12**.
 
 1. Navigate to the Android source directory:
    ```bash
@@ -33,7 +33,7 @@ Tested on **Android 12**.
 
 ## Linux Build Instructions
 
-Tested on **Ubuntu 22.04**.
+Already tested on **Ubuntu 22.04**.
 
 1. Clone the `memtester` repository:
    ```bash
