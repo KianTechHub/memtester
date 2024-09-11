@@ -52,4 +52,6 @@ Tested on **Ubuntu 22.04**.
   
 ---
 
-这是一个链接 [Markdown语法](https://markdown.com.cn)。
+i just porting it for Android.
+
+More detailed description of the original author [README](https://github.com/sunqianGitHub/memtester/blob/main/README)。
